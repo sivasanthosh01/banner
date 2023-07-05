@@ -1,0 +1,38 @@
+	
+	/*mobile*/
+	
+	@media(min-width:320px)
+	{
+		.paragraph{
+			width:100%;
+			height:100vh;
+			
+		}
+	}
+	
+	/*ipad*/
+	
+	@media(min-width:700px){
+	.paragraph{
+		width:100%;
+		height:100vh;
+	}
+	
+	}
+	
+	
+	/*laptop*/
+	
+	@media(min-width:960px){
+		.paragraph{
+	background-color:#252e57;
+	height:100vh;
+	color:white;
+	width:40%;
+	
+	
+}
+	
+	}
+		
+		

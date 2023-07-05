@@ -1,0 +1,72 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	}
+
+.container{
+	width:100%;	
+	
+	
+	
+}
+#company{
+	background-image:url(../image/banner.jpg);
+	background-size:cover;
+	height:100vh;
+	
+	
+}
+	
+
+/*.paragraph{
+	background-color:#252e57;
+	height:100vh;
+	color:white;
+	width:40%;
+	
+	
+}*/
+.paragraph h1{
+	font-size:50px;
+	padding:80px 30px 20px 60px ;
+	
+	
+}
+.ptag {
+	border-left:2px solid #4287f5;
+	padding:10px 20px 10px 40px;
+	font-size:20px;
+	margin-left:60px;
+	
+	
+	
+}
+.paragraph a{
+	text-decoration:none;
+	padding:10px 20px;
+	background-color:#4287f5;
+	border-radius:40px;
+	
+	color:white;
+}
+
+.start-but{
+	padding:50px;
+	
+}
+.start-but span{
+	padding-left:10px;
+}
+.playicon{
+	
+	width:25px;
+	height:25px;
+	border-radius:50%;
+	border:1px solid;
+	background-color:#4287f5;
+	text-align:center;
+	margin-left:40px;
+	font-size:20px;	
+	
+}
